@@ -1,0 +1,16 @@
+{
+  "name": "협상 · 대화 코치",
+  "short_name": "협상·대화",
+  "description": "협상(BATNA·앵커링·교환)과 편한 대화 기술(경청·질문·스몰토크·어려운 대화)을 시뮬레이션으로 연습하는 앱",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f8ff",
+  "theme_color": "#d9534f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
